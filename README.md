@@ -31,7 +31,7 @@ Downloads/
 📦 Download da versão .exe
 Você pode baixar o executável diretamente por aqui:
 
-🔗 Clique aqui para baixar a versão Windows (.exe)
+🔗 [Clique aqui para baixar a versão Windows](https://github.com/miguelpzks/Organizador-de-arquivos/releases/tag/v1.0) (.exe)
 
 ✅ Não é necessário ter Python instalado para usar a versão .exe.
 ⚠️ Caso o Windows bloqueie, clique em "Mais informações" > "Executar mesmo assim".
@@ -54,5 +54,5 @@ OS / Pathlib / Shutil
 
 👤 Autor
 Miguel Moura
-🔗 [LinkedIn]
-🔗 [GitHub] https://github.com/miguelpzks
+🔗 [LinkedIn](www.linkedin.com/in/miguel-moura-24b043266)
+🔗 [GitHub](https://github.com/miguelpzks)
