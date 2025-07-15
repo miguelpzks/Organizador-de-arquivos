@@ -54,5 +54,5 @@ OS / Pathlib / Shutil
 
 👤 Autor
 Miguel Moura
-🔗 [LinkedIn](www.linkedin.com/in/miguel-moura-24b043266)
+🔗 [LinkedIn](https://www.linkedin.com/in/miguel-moura-24b043266/?trk=opento_sprofile_topcard)
 🔗 [GitHub](https://github.com/miguelpzks)
